@@ -1,0 +1,5 @@
+2017-12-11 13:09:50 INFO  log4j_exec:21 - browser launched
+2017-12-11 13:09:54 INFO  log4j_exec:24 - webpage has been loaded
+2017-12-11 13:09:54 INFO  log4j_exec:27 - username is entered
+2017-12-11 13:09:55 INFO  log4j_exec:30 - password is entered
+2017-12-11 13:09:58 INFO  log4j_exec:33 - clicked login button

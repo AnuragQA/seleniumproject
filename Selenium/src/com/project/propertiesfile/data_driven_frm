@@ -1,0 +1,13 @@
+un=txtUsername
+
+psd=txtPassword
+
+btn=btnLogin
+
+txt=Welcome Admin
+
+span=html/body/div[1]/div/div[2]/form/div[5]/span
+
+uie=html/body/div[1]/div/div[2]/form/div[5]/span
+
+pie=html/body/div[1]/div/div[2]/form/div[5]/span
