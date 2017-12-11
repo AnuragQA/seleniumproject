@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+  <test name="box_btn1">
+    <classes>
+      <class name="Testng_package1.alert_jse"/>
+    </classes>
+  </test>
+  <test name="box_btn2">
+    <classes>
+      <class name="Testng_package1.txtbox_txtbutn_jse"/>
+    </classes>
+  </test> 
+</suite> 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite2]">
+  <parameter name="p" value="admin"/>
+  <parameter name="b" value="firefox"/>
+  <parameter name="u" value="Admin"/>
+  <test name="firefox_datapro(failed)">
+    <parameter name="p" value="admin"/>
+    <parameter name="b" value="firefox"/>
+    <parameter name="u" value="Admin"/>
+    <classes>
+      <class name="Testng_package1.grid_dataprovider">
+        <methods>
+          <include name="login_test" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- Testng_package1.grid_dataprovider -->
+    </classes>
+  </test> <!-- firefox_datapro(failed) -->
+</suite> <!-- Failed suite [Suite2] -->

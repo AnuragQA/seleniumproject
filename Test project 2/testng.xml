@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="pack1">
+  <classes>
+  <class name="Testng_package1.alert_jse"/>
+  </classes>
+  </test>
+  </suite>

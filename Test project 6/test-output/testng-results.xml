@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45710" started-at="2017-11-29T08:10:34Z" finished-at="2017-11-29T08:11:20Z">
+    <groups>
+    </groups>
+    <test name="box_btn2" duration-ms="29263" started-at="2017-11-29T08:10:34Z" finished-at="2017-11-29T08:11:04Z">
+      <class name="Testng_package1.txtbox_txtbutn_jse">
+        <test-method status="PASS" signature="f()[pri:0, instance:Testng_package1.txtbox_txtbutn_jse@7a92922]" name="f" duration-ms="29246" started-at="2017-11-29T13:40:34Z" finished-at="2017-11-29T13:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Testng_package1.txtbox_txtbutn_jse -->
+    </test> <!-- box_btn2 -->
+    <test name="box_btn1" duration-ms="45710" started-at="2017-11-29T08:10:34Z" finished-at="2017-11-29T08:11:20Z">
+      <class name="Testng_package1.alert_jse">
+        <test-method status="PASS" signature="f()[pri:0, instance:Testng_package1.alert_jse@47d384ee]" name="f" duration-ms="45695" started-at="2017-11-29T13:40:34Z" finished-at="2017-11-29T13:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Testng_package1.alert_jse -->
+    </test> <!-- box_btn1 -->
+  </suite> <!-- Suite -->
+</testng-results>

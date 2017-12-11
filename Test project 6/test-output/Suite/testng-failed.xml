@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="datepick(failed)">
+    <classes>
+      <class name="Testng_package1.datepicker_jse">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Testng_package1.datepicker_jse -->
+    </classes>
+  </test> <!-- datepick(failed) -->
+</suite> <!-- Failed suite [Suite] -->
