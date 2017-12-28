@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20739" started-at="2017-12-11T07:39:37Z" finished-at="2017-12-11T07:39:58Z">
+  <suite name="Default suite" duration-ms="1533" started-at="2017-12-16T11:52:30Z" finished-at="2017-12-16T11:52:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20739" started-at="2017-12-11T07:39:37Z" finished-at="2017-12-11T07:39:58Z">
-      <class name="com.project.testexec.log4j_exec">
-        <test-method status="PASS" signature="log4jj()[pri:0, instance:com.project.testexec.log4j_exec@28d25987]" name="log4jj" duration-ms="20712" started-at="2017-12-11T13:09:37Z" finished-at="2017-12-11T13:09:58Z">
+    <test name="Default test" duration-ms="1533" started-at="2017-12-16T11:52:30Z" finished-at="2017-12-16T11:52:32Z">
+      <class name="com.project.testexec.seleniumdb_test">
+        <test-method status="PASS" signature="db_test()[pri:0, instance:com.project.testexec.seleniumdb_test@5034c75a]" name="db_test" duration-ms="1487" started-at="2017-12-16T17:22:30Z" finished-at="2017-12-16T17:22:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- log4jj -->
-      </class> <!-- com.project.testexec.log4j_exec -->
+        </test-method> <!-- db_test -->
+      </class> <!-- com.project.testexec.seleniumdb_test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
